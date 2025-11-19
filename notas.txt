@@ -7,3 +7,5 @@ preguntas para después:
 como se supone que yo haga un merge si otra persona subió otra modificacion antes q yo? debo hacer pull primero o q?
 
 pedirle a chat que explique la diferencia entre merge, rebase, fast-forward, merge commit, historia en linea vs historia real (me lo sugirió para el tema de fusion de ramas(punto6))
+
+por que no me aparece la rama del repositorio remoto en el repositorio local? (main)
