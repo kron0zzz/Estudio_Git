@@ -1,0 +1,9 @@
+4. a que se refiere origin? 
+
+5. me mostraron esto pa subir un cambio a esa rama: git push -u origin feature-login. pero puedo hacer manualmente: git push feature-login?
+	por que la rama1 tiene el archivo de la rama master? en que 	momento se replicó eso?
+
+preguntas para después: 
+como se supone que yo haga un merge si otra persona subió otra modificacion antes q yo? debo hacer pull primero o q?
+
+pedirle a chat que explique la diferencia entre merge, rebase, fast-forward, merge commit, historia en linea vs historia real (me lo sugirió para el tema de fusion de ramas(punto6))
